@@ -1,8 +1,0 @@
-#Command to run Comet on file 09
-runCometQ 2015_May_26_Geoduck_09.raw
-
-#command to run trans-proteomic pipeline after Comet searches
-#example is given for file number 09
-#the text after -N will be included in the output file name interact-2015_May_26_Geoduck_09.pep.xml or prot.xml
-#the input file is 2015_May_26_Geoduck_09.pep.xml
-xinteract -p0.9 -OAp -N2015_May_26_Geoduck_09 2015_May_26_Geoduck_09.pep.xml
