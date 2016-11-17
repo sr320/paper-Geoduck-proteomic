@@ -1,1 +1,0 @@
-{"url": "https://docs.google.com/open?id=11afc4PCfPX1nET0gMxTw1jIZxHfjxfNnUGSv2Icvb0Q", "doc_id": "11afc4PCfPX1nET0gMxTw1jIZxHfjxfNnUGSv2Icvb0Q", "email": "graceac9@uw.edu", "resource_id": "document:11afc4PCfPX1nET0gMxTw1jIZxHfjxfNnUGSv2Icvb0Q"}
