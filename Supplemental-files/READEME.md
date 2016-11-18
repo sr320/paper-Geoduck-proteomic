@@ -29,10 +29,7 @@ NMDS of gonad SRM data for the 3 biological replicates and corresponding three t
 All identified proteins from the DDA experiment with Uniprot annotations (e-value cut-off of 1E-10), total spectral counts for each technical replicate, calculated normalized spectral abundance factor (NSAF) for combined technical replicates, and indication of significantly differentially abundant proteins by pairwise comparison. Columns containing spectral count data have headers “SpC” followed by the biological replicate number, sex, maturation stage, and technical replicate (for example, “SpC 3FE” is technical replicate 1 from early-stage female 3). Notation for NSAF is similar to SpC. The 9 columns in the sheet have headers such as “EFvLF” (comparison between early- and late-stage females) have asterisks in the cells that correspond to proteins that were differentially abundant for each given comparison. The last two columns (“NMDS Gonad” and “NMDS Hemolymph”) have asterisks in cells that correspond to the proteins with peptide transitions that contribute significantly to the SRM NMDS plot distributions
 
 
-**S7_1-EM-all-and-unique.pdf**
-**S7_2-EF-all-and-unique.pdf**
-**S7_3-MF-all-and-unique.pdf**
-**S7_4-MM-all-and-unique.pdf**
+**S7-DAGs.pdf**
 Enrichment plots for early- and mid-maturation stage geoduck (EM, EF, MM, MF). Processes colored in blue were enriched from the set of all proteins detected in the given sex-stage, while red processes are from the protein set that was uniquely detected in a sex-stage. Darker colors represent higher significance of enrichment
 
 
