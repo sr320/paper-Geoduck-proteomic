@@ -33,7 +33,7 @@ All identified proteins from the DDA experiment with Uniprot annotations (e-valu
 Enrichment plots for early- and mid-maturation stage geoduck (EM, EF, MM, MF). Processes colored in blue were enriched from the set of all proteins detected in the given sex-stage, while red processes are from the protein set that was uniquely detected in a sex-stage. Darker colors represent higher significance of enrichment
 
 
-**S8-SRM-data.txt**
+**S8-SRM-data.xlsx**
 Raw Skyline output (in the tab “Skyline output) and peak intensities normalized by QC peptide abundance (“Normalized Intensities”) for the gonad and hemolymph SRM data. 
 
 
