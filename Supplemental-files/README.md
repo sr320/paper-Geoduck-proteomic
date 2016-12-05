@@ -1,4 +1,4 @@
-**Reproductive development in Panopea generosa: towards a non-invasive proteomic assay for assessing maturation status.**
+**Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation.**
 Supporting Information
 
 
