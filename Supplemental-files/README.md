@@ -5,8 +5,8 @@ Supporting Information
 **File names** and their contents.
 
 
-**S1-Pgenerosa-gonad-protein-v3.pdb.txt**  
-Protein identification database derived from gonad transcriptome sequencing.
+**S1-Pgenerosa-gonad-protein-v3.fasta**  
+Deduced protein sequences derived from gonad transcriptome sequencing.
 
 
 **S2-comet.params** 
